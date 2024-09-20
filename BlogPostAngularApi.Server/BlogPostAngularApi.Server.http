@@ -1,0 +1,6 @@
+@BlogPostAngularApi.Server_HostAddress = http://localhost:5030
+
+GET {{BlogPostAngularApi.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

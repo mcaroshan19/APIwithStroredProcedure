@@ -1,0 +1,2 @@
+D:\NNNN\Projects\BlogPost\BlogPostAngularApi\blogpostangularapi.client\obj\Debug\blogpostangularapi.client.esproj.CoreCompileInputs.cache
+D:\NNNN\Project2\BlogPost\BlogPostAngularApi\blogpostangularapi.client\obj\Debug\blogpostangularapi.client.esproj.CoreCompileInputs.cache

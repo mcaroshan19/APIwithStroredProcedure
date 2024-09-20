@@ -1,0 +1,7 @@
+.small-input {
+    font-size: 0.875rem; /* Smaller text size */
+    padding: 0.25rem 0.5rem; /* Smaller padding */
+    height: auto; /* Adjust the height if needed */
+    width: 10px;
+  }
+  
